@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|c:\\users\\administrator\\source\\repos\\ourhero2-day5\\ourhero2-day5\\ourhero2-day5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|solutionrelative:ourhero2-day5\\ourhero2-day5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|c:\\users\\administrator\\source\\repos\\ourhero2-day5\\ourhero2-day5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|solutionrelative:ourhero2-day5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Migrations\\20241014053923_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OurHero2-Day5\\Migrations\\20241014053923_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|c:\\users\\administrator\\source\\repos\\ourhero2-day5\\ourhero2-day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|solutionrelative:ourhero2-day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|c:\\users\\administrator\\source\\repos\\ourhero2-day5\\ourhero2-day5\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|solutionrelative:ourhero2-day5\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|c:\\users\\administrator\\source\\repos\\ourhero2-day5\\ourhero2-day5\\controllers\\ourherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|solutionrelative:ourhero2-day5\\controllers\\ourherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|c:\\users\\administrator\\source\\repos\\ourhero2-day5\\ourhero2-day5\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|solutionrelative:ourhero2-day5\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|c:\\users\\administrator\\source\\repos\\ourhero2-day5\\ourhero2-day5\\entity\\ourherodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|solutionrelative:ourhero2-day5\\entity\\ourherodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|c:\\users\\administrator\\source\\repos\\ourhero2-day5\\ourhero2-day5\\model\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|solutionrelative:ourhero2-day5\\model\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|c:\\users\\administrator\\source\\repos\\ourhero2-day5\\ourhero2-day5\\model\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2A985C-F3FC-45B7-A7B7-62F334B98F46}|OurHero2-Day5\\OurHero2-Day5.csproj|solutionrelative:ourhero2-day5\\model\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OurHero2-Day5",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\OurHero2-Day5.csproj",
+              "RelativeDocumentMoniker": "OurHero2-Day5\\OurHero2-Day5.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\OurHero2-Day5.csproj",
+              "RelativeToolTip": "OurHero2-Day5\\OurHero2-Day5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T06:05:23.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241014053923_first.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Migrations\\20241014053923_first.cs",
+              "RelativeDocumentMoniker": "OurHero2-Day5\\Migrations\\20241014053923_first.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Migrations\\20241014053923_first.cs",
+              "RelativeToolTip": "OurHero2-Day5\\Migrations\\20241014053923_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:39:24.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\appsettings.json",
+              "RelativeDocumentMoniker": "OurHero2-Day5\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\appsettings.json",
+              "RelativeToolTip": "OurHero2-Day5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T05:17:04.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OurHeroDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Entity\\OurHeroDbContext.cs",
+              "RelativeDocumentMoniker": "OurHero2-Day5\\Entity\\OurHeroDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Entity\\OurHeroDbContext.cs",
+              "RelativeToolTip": "OurHero2-Day5\\Entity\\OurHeroDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:13:10.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Program.cs",
+              "RelativeDocumentMoniker": "OurHero2-Day5\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Program.cs",
+              "RelativeToolTip": "OurHero2-Day5\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:07:33.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OurHeroService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Services\\OurHeroService.cs",
+              "RelativeDocumentMoniker": "OurHero2-Day5\\Services\\OurHeroService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Services\\OurHeroService.cs",
+              "RelativeToolTip": "OurHero2-Day5\\Services\\OurHeroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:06:37.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOurHeroService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Services\\IOurHeroService.cs",
+              "RelativeDocumentMoniker": "OurHero2-Day5\\Services\\IOurHeroService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Services\\IOurHeroService.cs",
+              "RelativeToolTip": "OurHero2-Day5\\Services\\IOurHeroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:06:12.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OurHeroController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Controllers\\OurHeroController.cs",
+              "RelativeDocumentMoniker": "OurHero2-Day5\\Controllers\\OurHeroController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Controllers\\OurHeroController.cs",
+              "RelativeToolTip": "OurHero2-Day5\\Controllers\\OurHeroController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:58:16.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OurHero.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Model\\OurHero.cs",
+              "RelativeDocumentMoniker": "OurHero2-Day5\\Model\\OurHero.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Model\\OurHero.cs",
+              "RelativeToolTip": "OurHero2-Day5\\Model\\OurHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:03:36.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUpdateOurHero.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Model\\AddUpdateOurHero.cs",
+              "RelativeDocumentMoniker": "OurHero2-Day5\\Model\\AddUpdateOurHero.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\OurHero2-Day5\\OurHero2-Day5\\Model\\AddUpdateOurHero.cs",
+              "RelativeToolTip": "OurHero2-Day5\\Model\\AddUpdateOurHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:02:59.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

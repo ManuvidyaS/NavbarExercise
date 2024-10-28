@@ -1,0 +1,6 @@
+@ActionDemo_Day3_HostAddress = http://localhost:5155
+
+GET {{ActionDemo_Day3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
