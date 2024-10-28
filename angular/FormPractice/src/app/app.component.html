@@ -1,0 +1,185 @@
+<!-- 
+<form novalidate action="">
+
+  <label>Name: <input type="text" required name="name"></label>
+  
+  <label>Password: <input type="password" required name="pass"></label>
+  
+  Gender:
+  <label> <input type="radio" required name="gender" value="f"> : Female </label>
+  
+  <label> <input type="radio" required name="gender" value="m"> : Male</label>
+  
+  <label>City: <select required name="city">
+    <option disabled selected value="">--Choose City--</option>
+    <option>New Delhi</option>
+    <option>Chennai</option>
+    <option>Mumbai</option>
+    <option>Kolkata</option>
+  </select></label>
+  
+  <label><input type="checkbox" required name="terms"> : Terms</label>
+  
+  <button>Send</button>
+  
+  </form>
+   -->
+
+
+
+<!-- 
+<form novalidate action="">
+    
+  <label>Name: <input type="text" required name="name" [(ngModel)]="model.name"></label>
+    
+  <label>Password: <input type="password" required name="pass" [(ngModel)]="model.password"></label>
+    
+  Gender:
+  <label> <input type="radio" required name="gender" value="f" [(ngModel)]="model.gender"> : Female </label>
+    
+  <label> <input type="radio" required name="gender" value="m" [(ngModel)]="model.gender"> : Male</label>
+    
+  <label>City: <select required name="city" [(ngModel)]="model.city">
+    <option disabled selected value="">--Choose City--</option>
+    <option>New Delhi</option>
+    <option>Chennai</option>
+    <option>Mumbai</option>
+    <option>Kolkata</option>
+  </select></label>
+    
+  <label><input type="checkbox" required name="terms" [(ngModel)]="model.terms"> : Terms</label>
+    
+  <button>Send</button>
+    
+</form> -->
+
+
+
+
+<!-- <form novalidate #loginform="ngForm">
+      
+  <label>Name: <input type="text" required name="name" [(ngModel)]="model.name"></label>
+      
+  <label>Password: <input type="password" required name="pass" [(ngModel)]="model.password"></label>
+      
+  Gender:
+  <label> <input type="radio" required name="gender" value="f" [(ngModel)]="model.gender"> : Female </label>
+      
+  <label> <input type="radio" required name="gender" value="m" [(ngModel)]="model.gender"> : Male</label>
+      
+  <label>City: <select required name="city" [(ngModel)]="model.city">
+    <option disabled selected value="">--Choose City--</option>
+    <option>New Delhi</option>
+    <option>Chennai</option>
+    <option>Mumbai</option>
+    <option>Kolkata</option>
+  </select></label>
+      
+  <label><input type="checkbox" required name="terms" [(ngModel)]="model.terms"> : Terms</label>
+      
+  <button>Send</button>
+      
+  </form> -->
+
+
+
+<!--   
+<form novalidate #loginform="ngForm" (ngSubmit)="onSubmit(loginform)">
+        
+  <label>Name: <input type="text" required name="name" [(ngModel)]="model.name"></label>
+        
+  <label>Age: <input type="number" required name="age" [(ngModel)]="model.password"></label>
+        
+  Gender:
+  <label> <input type="radio" required name="gender" value="f" [(ngModel)]="model.gender"> : Female </label>
+        
+  <label> <input type="radio" required name="gender" value="m" [(ngModel)]="model.gender"> : Male</label>
+        
+  <label>City: <select required name="city" [(ngModel)]="model.city">
+      <option disabled selected value="">--Choose City--</option>
+      <option>New Delhi</option>
+      <option>Chennai</option>
+      <option>Mumbai</option>
+      <option>Kolkata</option>
+    </select></label>
+        
+  <label><input type="checkbox" required name="terms" [(ngModel)]="model.terms"> : Terms</label>
+        
+  <button [disabled]="loginform.invalid">Send</button>
+        
+</form> -->
+
+
+
+<!-- <form novalidate #loginform="ngForm" (ngSubmit)="onSubmit(loginform)">
+        
+  <label>Name: <input type="text" required name="name" [(ngModel)]="model.name"></label>
+        
+  <label>Age: <input type="number" required name="age" [(ngModel)]="model.password"></label>
+        
+  Gender:
+  <label> <input type="radio" required name="gender" value="f" [(ngModel)]="model.gender"> : Female </label>
+        
+  <label> <input type="radio" required name="gender" value="m" [(ngModel)]="model.gender"> : Male</label>
+        
+  <label>City: <select required name="city" [(ngModel)]="model.city">
+      <option disabled selected value="">--Choose City--</option>
+      <option>New Delhi</option>
+      <option>Chennai</option>
+      <option>Mumbai</option>
+      <option>Kolkata</option>
+    </select></label>
+        
+  <label><input type="checkbox" required name="terms" [(ngModel)]="model.terms"> : Terms</label>
+        
+  <button [disabled]="loginform.invalid">Send</button>
+
+  <button (click)="login.reset()" > Reset </button>
+        
+</form>   -->
+
+
+<!-- <form novalidate #loginform="ngForm">
+            
+  <div> <label>Name: <input #name=ngModel type="text" required name="name" [(ngModel)]="login.name"></label></div>
+      
+  <div> <label>Age: <input #age=ngModel type="number" required name="age" [(ngModel)]="login.age"></label></div>
+      
+  <div> <label>Password: <input #pass=ngModel type="password" required name="password" [(ngModel)]="login.pass"></label></div>
+      
+  <div> <label>Email: <input #email=ngModel type="email" required name="email" [(ngModel)]="login.email"></label></div>
+              
+  <div> <button [disabled]="loginform.invalid">Send</button></div>
+              
+  </form> -->
+
+
+  <form novalidate #loginform="ngForm">
+                
+    <div><label>Name: <input #name=ngModel type="text" required name="name" [(ngModel)]="login.name"></label>
+    <span class="success" [hidden]="name.invalid">Valid Name</span>
+    <span class="error" [hidden]="name.valid || name.dirty">Enter Name</span>
+    <span class="error" [hidden]="name.valid || name.pristine">Enter Valid Name</span>
+    </div>
+            
+    <div><label>Age: <input #age=ngModel type="number" min="18" max="25" required name="age" [(ngModel)]="login.age"></label>
+    <span class="success" [hidden]="age.invalid">Valid Age</span>
+    <span class="error" [hidden]="age.valid || age.dirty">Enter Age</span>
+    <span class="error" [hidden]="age.valid || age.pristine">Enter Valid Age</span>
+    </div>
+            
+    <div><label>Password: <input #pass=ngModel type="password" pattern="[\w]{8,12}" required name="password" [(ngModel)]="login.pass"></label>
+    <span class="success" [hidden]="pass.invalid">Password Accepted</span>
+    <span class="error" [hidden]="pass.valid || pass.dirty">Enter Password</span>
+    <span class="error" [hidden]="pass.valid || pass.pristine">Invalid Password</span>
+    </div>
+            
+    <div><label>Email: <input #email=ngModel type="email" pattern="[\w]{1,}\@[\w]{1,}\.[a-zA-Z]{2,}" required name="email" [(ngModel)]="login.email"></label>
+    <span class="success" [hidden]="email.invalid">Valid Email</span>
+    <span class="error" [hidden]="email.valid || email.dirty">Enter Email</span>
+    <span class="error" [hidden]="email.valid || email.pristine">Enter Valid Email</span>
+    </div>
+                    
+    <div><button [disabled]="loginform.invalid">Send</button></div>
+                    
+    </form>
