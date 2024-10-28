@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practice\\LanguageTranslator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6121F37A-D42B-4E2A-90AB-E2B18EA40BEB}|LanguageTranslator\\LanguageTranslator.csproj|d:\\practice\\languagetranslator\\languagetranslator\\views\\word\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6121F37A-D42B-4E2A-90AB-E2B18EA40BEB}|LanguageTranslator\\LanguageTranslator.csproj|solutionrelative:languagetranslator\\views\\word\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6121F37A-D42B-4E2A-90AB-E2B18EA40BEB}|LanguageTranslator\\LanguageTranslator.csproj|d:\\practice\\languagetranslator\\languagetranslator\\models\\wordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6121F37A-D42B-4E2A-90AB-E2B18EA40BEB}|LanguageTranslator\\LanguageTranslator.csproj|solutionrelative:languagetranslator\\models\\wordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6121F37A-D42B-4E2A-90AB-E2B18EA40BEB}|LanguageTranslator\\LanguageTranslator.csproj|d:\\practice\\languagetranslator\\languagetranslator\\controllers\\wordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6121F37A-D42B-4E2A-90AB-E2B18EA40BEB}|LanguageTranslator\\LanguageTranslator.csproj|solutionrelative:languagetranslator\\controllers\\wordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6121F37A-D42B-4E2A-90AB-E2B18EA40BEB}|LanguageTranslator\\LanguageTranslator.csproj|d:\\practice\\languagetranslator\\languagetranslator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6121F37A-D42B-4E2A-90AB-E2B18EA40BEB}|LanguageTranslator\\LanguageTranslator.csproj|solutionrelative:languagetranslator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\practice\\LanguageTranslator\\LanguageTranslator\\Views\\Word\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanguageTranslator\\Views\\Word\\Index.cshtml",
+              "ToolTip": "D:\\practice\\LanguageTranslator\\LanguageTranslator\\Views\\Word\\Index.cshtml",
+              "RelativeToolTip": "LanguageTranslator\\Views\\Word\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:09:07.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordModel.cs",
+              "DocumentMoniker": "D:\\practice\\LanguageTranslator\\LanguageTranslator\\Models\\WordModel.cs",
+              "RelativeDocumentMoniker": "LanguageTranslator\\Models\\WordModel.cs",
+              "ToolTip": "D:\\practice\\LanguageTranslator\\LanguageTranslator\\Models\\WordModel.cs",
+              "RelativeToolTip": "LanguageTranslator\\Models\\WordModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:04:47.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordController.cs",
+              "DocumentMoniker": "D:\\practice\\LanguageTranslator\\LanguageTranslator\\Controllers\\WordController.cs",
+              "RelativeDocumentMoniker": "LanguageTranslator\\Controllers\\WordController.cs",
+              "ToolTip": "D:\\practice\\LanguageTranslator\\LanguageTranslator\\Controllers\\WordController.cs",
+              "RelativeToolTip": "LanguageTranslator\\Controllers\\WordController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:02:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practice\\LanguageTranslator\\LanguageTranslator\\Program.cs",
+              "RelativeDocumentMoniker": "LanguageTranslator\\Program.cs",
+              "ToolTip": "D:\\practice\\LanguageTranslator\\LanguageTranslator\\Program.cs",
+              "RelativeToolTip": "LanguageTranslator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:00:29.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

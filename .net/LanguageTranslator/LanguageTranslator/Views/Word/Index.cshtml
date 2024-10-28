@@ -1,0 +1,109 @@
+﻿@model LanguageTranslator.Models.WordModel
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+
+    <title>Translate Word</title>
+
+    <style>
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f5;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        input[type="submit"] {
+            background-color: black;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            input[type="submit"]:hover {
+                background-color: black;
+            }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div>
+
+        <h1>Multilevel language change</h1>
+
+        <form asp-action="Translate" method="post">
+
+            <label for="OriginalWord">Enter Word (in English):</label>
+
+            <input type="text" id="OriginalWord" name="OriginalWord" required />
+
+            <br />
+
+            <label for="Language">Translate to:</label>
+
+            <select id="Language" name="Language">
+
+                <option value="Tamil">Tamil</option>
+
+                <option value="French">French</option>
+
+            </select>
+
+            <br />
+
+            <input type="submit" value="Translate" />
+
+        </form>
+
+        @if (Model != null && !string.IsNullOrEmpty(Model.TranslatedWord))
+
+        {
+
+            <h2>Translation:</h2>
+
+            <p>@Model.OriginalWord to @Model.Language is: @Model.TranslatedWord</p>
+
+        }
+
+    </div>
+
+</body>
+
+</html>

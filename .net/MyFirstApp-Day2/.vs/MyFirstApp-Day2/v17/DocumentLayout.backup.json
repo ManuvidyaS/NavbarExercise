@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practice\\MyFirstApp-Day2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{280879B0-31B2-4C26-B161-277805F01AE7}|MyFirstApp-Day2\\MyFirstApp-Day2.csproj|d:\\practice\\myfirstapp-day2\\myfirstapp-day2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280879B0-31B2-4C26-B161-277805F01AE7}|MyFirstApp-Day2\\MyFirstApp-Day2.csproj|solutionrelative:myfirstapp-day2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280879B0-31B2-4C26-B161-277805F01AE7}|MyFirstApp-Day2\\MyFirstApp-Day2.csproj|d:\\practice\\myfirstapp-day2\\myfirstapp-day2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280879B0-31B2-4C26-B161-277805F01AE7}|MyFirstApp-Day2\\MyFirstApp-Day2.csproj|solutionrelative:myfirstapp-day2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280879B0-31B2-4C26-B161-277805F01AE7}|MyFirstApp-Day2\\MyFirstApp-Day2.csproj|d:\\practice\\myfirstapp-day2\\myfirstapp-day2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280879B0-31B2-4C26-B161-277805F01AE7}|MyFirstApp-Day2\\MyFirstApp-Day2.csproj|solutionrelative:myfirstapp-day2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280879B0-31B2-4C26-B161-277805F01AE7}|MyFirstApp-Day2\\MyFirstApp-Day2.csproj|d:\\practice\\myfirstapp-day2\\myfirstapp-day2\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280879B0-31B2-4C26-B161-277805F01AE7}|MyFirstApp-Day2\\MyFirstApp-Day2.csproj|solutionrelative:myfirstapp-day2\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\practice\\MyFirstApp-Day2\\MyFirstApp-Day2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MyFirstApp-Day2\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\practice\\MyFirstApp-Day2\\MyFirstApp-Day2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MyFirstApp-Day2\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:04:42.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\practice\\MyFirstApp-Day2\\MyFirstApp-Day2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MyFirstApp-Day2\\Models\\Student.cs",
+              "ToolTip": "D:\\practice\\MyFirstApp-Day2\\MyFirstApp-Day2\\Models\\Student.cs",
+              "RelativeToolTip": "MyFirstApp-Day2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:02:10.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\practice\\MyFirstApp-Day2\\MyFirstApp-Day2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MyFirstApp-Day2\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\practice\\MyFirstApp-Day2\\MyFirstApp-Day2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MyFirstApp-Day2\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:27:19.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\practice\\MyFirstApp-Day2\\MyFirstApp-Day2\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "MyFirstApp-Day2\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\practice\\MyFirstApp-Day2\\MyFirstApp-Day2\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "MyFirstApp-Day2\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:20:14.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

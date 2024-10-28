@@ -1,0 +1,15 @@
+D:\practice\WebRequestConsoleApp\obj\Debug\net6.0\WebRequestConsoleApp.csproj.AssemblyReference.cache
+D:\practice\WebRequestConsoleApp\obj\Debug\net6.0\WebRequestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\WebRequestConsoleApp\obj\Debug\net6.0\WebRequestConsoleApp.AssemblyInfoInputs.cache
+D:\practice\WebRequestConsoleApp\obj\Debug\net6.0\WebRequestConsoleApp.AssemblyInfo.cs
+D:\practice\WebRequestConsoleApp\obj\Debug\net6.0\WebRequestConsoleApp.csproj.CoreCompileInputs.cache
+D:\practice\WebRequestConsoleApp\bin\Debug\net6.0\WebRequestConsoleApp.exe
+D:\practice\WebRequestConsoleApp\bin\Debug\net6.0\WebRequestConsoleApp.deps.json
+D:\practice\WebRequestConsoleApp\bin\Debug\net6.0\WebRequestConsoleApp.runtimeconfig.json
+D:\practice\WebRequestConsoleApp\bin\Debug\net6.0\WebRequestConsoleApp.dll
+D:\practice\WebRequestConsoleApp\bin\Debug\net6.0\WebRequestConsoleApp.pdb
+D:\practice\WebRequestConsoleApp\obj\Debug\net6.0\WebRequestConsoleApp.dll
+D:\practice\WebRequestConsoleApp\obj\Debug\net6.0\refint\WebRequestConsoleApp.dll
+D:\practice\WebRequestConsoleApp\obj\Debug\net6.0\WebRequestConsoleApp.pdb
+D:\practice\WebRequestConsoleApp\obj\Debug\net6.0\WebRequestConsoleApp.genruntimeconfig.cache
+D:\practice\WebRequestConsoleApp\obj\Debug\net6.0\ref\WebRequestConsoleApp.dll

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelBinding-Day5", "ModelBinding-Day5\ModelBinding-Day5.csproj", "{129F3D7E-A029-4C30-A28C-C0ED40099BC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A04F91EE-F3D4-41B4-9EF9-8752C58FEBDC}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129F3D7E-A029-4C30-A28C-C0ED40099BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129F3D7E-A029-4C30-A28C-C0ED40099BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129F3D7E-A029-4C30-A28C-C0ED40099BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129F3D7E-A029-4C30-A28C-C0ED40099BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD8B5962-66B9-424A-B56C-6536C824A1B3}
+	EndGlobalSection
+EndGlobal
