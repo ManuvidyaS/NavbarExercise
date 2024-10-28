@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\ToDoAPI-Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B48C6A9-5D4B-4A6F-99CB-E36C5667ED47}|ToDoAPI-Day4\\ToDoAPI-Day4.csproj|c:\\users\\administrator\\source\\repos\\todoapi-day4\\todoapi-day4\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B48C6A9-5D4B-4A6F-99CB-E36C5667ED47}|ToDoAPI-Day4\\ToDoAPI-Day4.csproj|solutionrelative:todoapi-day4\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B48C6A9-5D4B-4A6F-99CB-E36C5667ED47}|ToDoAPI-Day4\\ToDoAPI-Day4.csproj|c:\\users\\administrator\\source\\repos\\todoapi-day4\\todoapi-day4\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B48C6A9-5D4B-4A6F-99CB-E36C5667ED47}|ToDoAPI-Day4\\ToDoAPI-Day4.csproj|solutionrelative:todoapi-day4\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B48C6A9-5D4B-4A6F-99CB-E36C5667ED47}|ToDoAPI-Day4\\ToDoAPI-Day4.csproj|c:\\users\\administrator\\source\\repos\\todoapi-day4\\todoapi-day4\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B48C6A9-5D4B-4A6F-99CB-E36C5667ED47}|ToDoAPI-Day4\\ToDoAPI-Day4.csproj|solutionrelative:todoapi-day4\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B48C6A9-5D4B-4A6F-99CB-E36C5667ED47}|ToDoAPI-Day4\\ToDoAPI-Day4.csproj|c:\\users\\administrator\\source\\repos\\todoapi-day4\\todoapi-day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B48C6A9-5D4B-4A6F-99CB-E36C5667ED47}|ToDoAPI-Day4\\ToDoAPI-Day4.csproj|solutionrelative:todoapi-day4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ToDoAPI-Day4\\ToDoAPI-Day4\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "ToDoAPI-Day4\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ToDoAPI-Day4\\ToDoAPI-Day4\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "ToDoAPI-Day4\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:32:04.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ToDoAPI-Day4\\ToDoAPI-Day4\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoAPI-Day4\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ToDoAPI-Day4\\ToDoAPI-Day4\\Program.cs",
+              "RelativeToolTip": "ToDoAPI-Day4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:07:37.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ToDoAPI-Day4\\ToDoAPI-Day4\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "ToDoAPI-Day4\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ToDoAPI-Day4\\ToDoAPI-Day4\\Models\\TodoContext.cs",
+              "RelativeToolTip": "ToDoAPI-Day4\\Models\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:06:34.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ToDoAPI-Day4\\ToDoAPI-Day4\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "ToDoAPI-Day4\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ToDoAPI-Day4\\ToDoAPI-Day4\\Models\\TodoItem.cs",
+              "RelativeToolTip": "ToDoAPI-Day4\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:05:15.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
